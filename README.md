@@ -9,3 +9,8 @@ CSV 파일
 |HIJ|CCC|3~4|3|3|3|3|3|
 
 # 결과
+## R Script
+![Image](https://github.com/user-attachments/assets/f357faae-b0cb-4512-8d76-1fd838959d2c)
+
+## Minitab
+![Image](https://github.com/user-attachments/assets/19005e9f-a356-4bbd-9ca1-c7e6e3b2a760)
